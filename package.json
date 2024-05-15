@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chai-as-promised": "^7.1.2",
+    "selenium-webdriver": "^4.19.0"
+  },
+  "devDependencies": {
+    "@babel/register": "^7.23.7",
+    "chai": "^4.4.1",
+    "mocha": "^10.4.0"
+  }
+}
